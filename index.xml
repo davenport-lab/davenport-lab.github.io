@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Davenport Lab</title>
-    <link>http://davenport-lab.github.io/</link>
+    <link>https://davenport-lab.github.io/</link>
     <description>Recent content on Davenport Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 31 Oct 2018 22:26:09 -0500</lastBuildDate>
     
-	<atom:link href="http://davenport-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://davenport-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Genetic determinants of the microbiome</title>
-      <link>http://davenport-lab.github.io/research/genetics/</link>
+      <link>https://davenport-lab.github.io/research/genetics/</link>
       <pubDate>Wed, 31 Oct 2018 22:26:09 -0500</pubDate>
       
-      <guid>http://davenport-lab.github.io/research/genetics/</guid>
+      <guid>https://davenport-lab.github.io/research/genetics/</guid>
       <description>Our lab is particularly interested in elucidating the role of host genetics in determining gut microbiome composition. Is the microbiome heritable? What host genetic variants are determine microbial abundance in the gut? How can we use host genetic variation to understand causal relationships between the microbiome and disease?
 Microbiome GWAS in the Hutterites photo: Kelly Hofer
 Host genetics + microbiota interactions in the TwinsUK Reviews and commentaries 
@@ -25,20 +25,20 @@ Microbiome GWAS in the Hutterites While many environmental factors are known to 
     
     <item>
       <title>Openings</title>
-      <link>http://davenport-lab.github.io/pages/openings/</link>
+      <link>https://davenport-lab.github.io/pages/openings/</link>
       <pubDate>Wed, 31 Oct 2018 22:26:09 -0500</pubDate>
       
-      <guid>http://davenport-lab.github.io/pages/openings/</guid>
+      <guid>https://davenport-lab.github.io/pages/openings/</guid>
       <description>The lab is expanding! We are currently seeking undergraduate researchers, graduate students, and postdocs/research associates:
 Undergraduate Researchers The lab is seeking undergraduates interested in gaining research experience examining questions related to host-microbe interactions. Projects in the lab involve bench lab work (wet), computational research (dry), or a combination of both. Prospective researchers should be willing to make a time commitment of at least 8 hours per week to their research during the semesters.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://davenport-lab.github.io/pages/contact/</link>
+      <link>https://davenport-lab.github.io/pages/contact/</link>
       <pubDate>Wed, 31 Oct 2018 21:28:43 -0500</pubDate>
       
-      <guid>http://davenport-lab.github.io/pages/contact/</guid>
+      <guid>https://davenport-lab.github.io/pages/contact/</guid>
       <description>Laboratory:
 Pennsylvania State University
 Department of Biology
@@ -48,19 +48,19 @@ University Park, PA 16802</description>
     
     <item>
       <title>Global and evolutionary human microbiomics</title>
-      <link>http://davenport-lab.github.io/research/global_microbiomes/</link>
+      <link>https://davenport-lab.github.io/research/global_microbiomes/</link>
       <pubDate>Wed, 31 Oct 2018 21:28:43 -0500</pubDate>
       
-      <guid>http://davenport-lab.github.io/research/global_microbiomes/</guid>
+      <guid>https://davenport-lab.github.io/research/global_microbiomes/</guid>
       <description>Microbiomes of Nepali populations practicing different subsistence strategies How does the transition to agriculture affect the microbiome? In collaboration with Dr. Aashish Jha, we examining the microbiomes of a fascinating set of populations from Nepal that in the past practiced semi-nomadic hunting and gathering. Some of these populations maintain that lifestyle (the Chepang), some took agricultural practices hundreds of years ago (the Tharu), and some have more recently transitioned (the Raute and Raji).</description>
     </item>
     
     <item>
       <title>Macrobes</title>
-      <link>http://davenport-lab.github.io/pages/people/</link>
+      <link>https://davenport-lab.github.io/pages/people/</link>
       <pubDate>Thu, 31 May 2018 22:26:13 -0500</pubDate>
       
-      <guid>http://davenport-lab.github.io/pages/people/</guid>
+      <guid>https://davenport-lab.github.io/pages/people/</guid>
       <description>We are! The Macrobe + microbe interaction lab in the Department of Biology at the Pennsylvania State University. We use a combination of wet lab and computational approaches to understand what determines microbiome composition within a host, and how the relationship between the host and the microbiome affects host health and evolution.
 Emily Davenport
 Assistant Professor
@@ -70,10 +70,10 @@ Huck Institutes of the Life Sciences and Institute for CyberScience</description
     
     <item>
       <title>Microbiome method development</title>
-      <link>http://davenport-lab.github.io/research/method_developent/</link>
+      <link>https://davenport-lab.github.io/research/method_developent/</link>
       <pubDate>Thu, 31 May 2018 22:26:13 -0500</pubDate>
       
-      <guid>http://davenport-lab.github.io/research/method_developent/</guid>
+      <guid>https://davenport-lab.github.io/research/method_developent/</guid>
       <description>Microbiome research is a relatively new and rapidly expanding field. New wet lab and statistical approaches are needed to answer fundamental questions about host + microbe interactions. Here&amp;rsquo;s how we are contributing.
 Co-occurrence network modeling reveals disease-specific configurations of microbiome community structure Simultaneously modeling host genetics and microbiome composition reveals the heritability and the proportion of variance explained due to the microbiome of immune-related traits 
 
@@ -82,19 +82,19 @@ Co-occurrence network modeling reveals disease-specific configurations of microb
     
     <item>
       <title>Environmental influences on the microbiome</title>
-      <link>http://davenport-lab.github.io/research/environment/</link>
+      <link>https://davenport-lab.github.io/research/environment/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
-      <guid>http://davenport-lab.github.io/research/environment/</guid>
+      <guid>https://davenport-lab.github.io/research/environment/</guid>
       <description>Seasonal variation in gut microbiome composition Many studies have shown the important role diet plays in determining gut microbiome composition, however, many of us eat fairly consistant diets seasonally because we have access to fresh produce grown all over the globe. To examine whether seasonal differences in diet might affect the microbiome, I examined the fecal bacterial content in an isolated, communally-living population: the Hutterites. Women in Hutterite colonies (a small town of a few hundred Hutterites) cook 3 huge, communal meals a day and the entire colony eats buffet style from that meal (see some photos).</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>http://davenport-lab.github.io/pages/publications/</link>
+      <link>https://davenport-lab.github.io/pages/publications/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
-      <guid>http://davenport-lab.github.io/pages/publications/</guid>
+      <guid>https://davenport-lab.github.io/pages/publications/</guid>
       <description>See my google scholar profile for an up-to-date list.
 * denotes equal contribution
 2019  Gong X, Davenport ER, Wang D, Clark AG. Lack of spatial and temporal genetic structure of Anguilla japonica populations. Conservation Genetics. 2019 Kachoo P*, Eraso JM*, Beres SB, Olsen RJ, Zhu L, Nasser W, Bernard PE, Cantu CC., Ojeda Saavedtra M, José Arredondo M, Strope B, Do H, Kumaraswami M, Vuopio J, Gröndahl-Yli-Hannuksela K, Kristinsson KG, Gottfredsson M, Pesonen M, Pensar J, Davenport ER, Clark AG, Corander J, Caugant DA, Gaini S, Magnusses MD, Porter AR, DeLeoFR, and Musser JM.</description>

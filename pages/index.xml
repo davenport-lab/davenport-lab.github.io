@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Davenport Lab</title>
-    <link>http://davenport-lab.github.io/pages/</link>
+    <link>https://davenport-lab.github.io/pages/</link>
     <description>Recent content on Davenport Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate>
     
-	<atom:link href="http://davenport-lab.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://davenport-lab.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Openings</title>
-      <link>http://davenport-lab.github.io/pages/openings/</link>
+      <link>https://davenport-lab.github.io/pages/openings/</link>
       <pubDate>Wed, 31 Oct 2018 22:26:09 -0500</pubDate>
       
-      <guid>http://davenport-lab.github.io/pages/openings/</guid>
+      <guid>https://davenport-lab.github.io/pages/openings/</guid>
       <description>The lab is expanding! We are currently seeking undergraduate researchers, graduate students, and postdocs/research associates:
 Undergraduate Researchers The lab is seeking undergraduates interested in gaining research experience examining questions related to host-microbe interactions. Projects in the lab involve bench lab work (wet), computational research (dry), or a combination of both. Prospective researchers should be willing to make a time commitment of at least 8 hours per week to their research during the semesters.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://davenport-lab.github.io/pages/contact/</link>
+      <link>https://davenport-lab.github.io/pages/contact/</link>
       <pubDate>Wed, 31 Oct 2018 21:28:43 -0500</pubDate>
       
-      <guid>http://davenport-lab.github.io/pages/contact/</guid>
+      <guid>https://davenport-lab.github.io/pages/contact/</guid>
       <description>Laboratory:
 Pennsylvania State University
 Department of Biology
@@ -36,10 +36,10 @@ University Park, PA 16802</description>
     
     <item>
       <title>Macrobes</title>
-      <link>http://davenport-lab.github.io/pages/people/</link>
+      <link>https://davenport-lab.github.io/pages/people/</link>
       <pubDate>Thu, 31 May 2018 22:26:13 -0500</pubDate>
       
-      <guid>http://davenport-lab.github.io/pages/people/</guid>
+      <guid>https://davenport-lab.github.io/pages/people/</guid>
       <description>We are! The Macrobe + microbe interaction lab in the Department of Biology at the Pennsylvania State University. We use a combination of wet lab and computational approaches to understand what determines microbiome composition within a host, and how the relationship between the host and the microbiome affects host health and evolution.
 Emily Davenport
 Assistant Professor
@@ -49,10 +49,10 @@ Huck Institutes of the Life Sciences and Institute for CyberScience</description
     
     <item>
       <title>Publications</title>
-      <link>http://davenport-lab.github.io/pages/publications/</link>
+      <link>https://davenport-lab.github.io/pages/publications/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
-      <guid>http://davenport-lab.github.io/pages/publications/</guid>
+      <guid>https://davenport-lab.github.io/pages/publications/</guid>
       <description>See my google scholar profile for an up-to-date list.
 * denotes equal contribution
 2019  Gong X, Davenport ER, Wang D, Clark AG. Lack of spatial and temporal genetic structure of Anguilla japonica populations. Conservation Genetics. 2019 Kachoo P*, Eraso JM*, Beres SB, Olsen RJ, Zhu L, Nasser W, Bernard PE, Cantu CC., Ojeda Saavedtra M, José Arredondo M, Strope B, Do H, Kumaraswami M, Vuopio J, Gröndahl-Yli-Hannuksela K, Kristinsson KG, Gottfredsson M, Pesonen M, Pensar J, Davenport ER, Clark AG, Corander J, Caugant DA, Gaini S, Magnusses MD, Porter AR, DeLeoFR, and Musser JM.</description>
