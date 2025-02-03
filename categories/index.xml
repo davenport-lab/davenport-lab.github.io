@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Davenport Lab</title>
+    <title>Categories on Davenport Lab</title>
     <link>https://davenport-lab.github.io/categories/</link>
-    <description>Recent content on Davenport Lab</description>
+    <description>Recent content in Categories on Davenport Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 31 Oct 2018 22:26:09 -0500</lastBuildDate>
@@ -12,12 +12,16 @@
     
     
     <item>
-      <title>Genetic determinants of the microbiome</title>
-      <link>https://davenport-lab.github.io/research/genetics/</link>
+      <title></title>
+      <link>https://davenport-lab.github.io/categories/</link>
       <pubDate>Wed, 31 Oct 2018 22:26:09 -0500</pubDate>
       
-      <guid>https://davenport-lab.github.io/research/genetics/</guid>
-      <description>Our lab is particularly interested in elucidating the role of host genetics in determining gut microbiome composition. Is the microbiome heritable? What host genetic variants are determine microbial abundance in the gut? How can we use host genetic variation to understand causal relationships between the microbiome and disease?
+      <guid>https://davenport-lab.github.io/categories/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>erested in elucidating the role of host genetics in determining gut microbiome composition. Is the microbiome heritable? What host genetic variants are determine microbial abundance in the gut? How can we use host genetic variation to understand causal relationships between the microbiome and disease?
 Microbiome GWAS in the Hutterites photo: Kelly Hofer
 Host genetics + microbiota interactions in the TwinsUK Reviews and commentaries 
 Microbiome GWAS in the Hutterites While many environmental factors are known to contribute to gut microbiome composition, the extent to which host genetic variation plays a role is unclear.</description>
