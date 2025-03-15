@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Davenport Lab</title>
+    <title>Davenport Lab</title>
     <link>https://davenport-lab.github.io/categories/</link>
-    <description>Recent content in Categories on Davenport Lab</description>
+    <description>Recent content on Davenport Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 31 Oct 2018 22:26:09 -0500</lastBuildDate>
@@ -12,16 +12,12 @@
     
     
     <item>
-      <title></title>
-      <link>https://davenport-lab.github.io/categories/</link>
+      <title>Genetic determinants of the microbiome</title>
+      <link>https://davenport-lab.github.io/research/genetics/</link>
       <pubDate>Wed, 31 Oct 2018 22:26:09 -0500</pubDate>
       
-      <guid>https://davenport-lab.github.io/categories/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>erested in elucidating the role of host genetics in determining gut microbiome composition. Is the microbiome heritable? What host genetic variants are determine microbial abundance in the gut? How can we use host genetic variation to understand causal relationships between the microbiome and disease?
+      <guid>https://davenport-lab.github.io/research/genetics/</guid>
+      <description>Our lab is particularly interested in elucidating the role of host genetics in determining gut microbiome composition. Is the microbiome heritable? What host genetic variants are determine microbial abundance in the gut? How can we use host genetic variation to understand causal relationships between the microbiome and disease?
 Microbiome GWAS in the Hutterites photo: Kelly Hofer
 Host genetics + microbiota interactions in the TwinsUK Reviews and commentaries 
 Microbiome GWAS in the Hutterites While many environmental factors are known to contribute to gut microbiome composition, the extent to which host genetic variation plays a role is unclear.</description>
@@ -180,7 +176,7 @@ Co-occurrence network modeling reveals disease-specific configurations of microb
       <description>See my google scholar profile for an up-to-date list.
 * denotes equal contribution
 underlined denotes Davenport lab member
-Preprints  Cappas VM, Davenport ER, and Sykes DG. The microbiome and volatile organic compounds reflect the state of decomposition in an indoor environment. BioRxiv  2023  Kelliher JM, Rudolph M, Vangay P, Abbas A, Borton MA, Santistevan C, Davenport ER, Davenport DW, Erazo NG, Herman C, Karstens L, Kocurek B, Lutz HL, Myers KS, Ockert I, Rodriguez FE, Saunders JK, Smith ML, Vogtmann E, Windsor A, Wood-Charlson EM, Woodley L, Eloe-Fadrosh EA.</description>
+Preprints  Litichevskiy L, Considine M, Gill J, Shandar V, Cox TO, Descamps HC, Wright KM, Amses KR, Dohnalova L, Liou MJ, Tetlak M, Galindo-Fiallos MR, Wong AC, Lundgren P, Kim J, Uhr GT, Rahman RJ, Mason S, Merenstein C, Bushman FD, Raj A, Harding F, Chen Z, Prateek GV, Mullis M, Deighan AG, Robinson L, Tanes C, Bittinger K, Chakraborty M, Bhatt AS, Li H, Barnett I, Davenport ER, Broman KW, Cohen RL, Botstein D, Freund A, Di Francesco A, Churchill GA, Li M, and Thaiss CA.</description>
     </item>
     
     <item>
@@ -192,7 +188,7 @@ Preprints  Cappas VM, Davenport ER, and Sykes DG. The microbiome and volatile or
       <description>See my google scholar profile for an up-to-date list.
 * denotes equal contribution
 underlined denotes Davenport lab member
-Preprints  Cappas VM, Davenport ER, and Sykes DG. The microbiome and volatile organic compounds reflect the state of decomposition in an indoor environment. BioRxiv  2023  Kelliher JM, Rudolph M, Vangay P, Abbas A, Borton MA, Santistevan C, Davenport ER, Davenport DW, Erazo NG, Herman C, Karstens L, Kocurek B, Lutz HL, Myers KS, Ockert I, Rodriguez FE, Saunders JK, Smith ML, Vogtmann E, Windsor A, Wood-Charlson EM, Woodley L, Eloe-Fadrosh EA.</description>
+Preprints  Litichevskiy L, Considine M, Gill J, Shandar V, Cox TO, Descamps HC, Wright KM, Amses KR, Dohnalova L, Liou MJ, Tetlak M, Galindo-Fiallos MR, Wong AC, Lundgren P, Kim J, Uhr GT, Rahman RJ, Mason S, Merenstein C, Bushman FD, Raj A, Harding F, Chen Z, Prateek GV, Mullis M, Deighan AG, Robinson L, Tanes C, Bittinger K, Chakraborty M, Bhatt AS, Li H, Barnett I, Davenport ER, Broman KW, Cohen RL, Botstein D, Freund A, Di Francesco A, Churchill GA, Li M, and Thaiss CA.</description>
     </item>
     
   </channel>
