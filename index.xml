@@ -1,104 +1,68 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Davenport Lab</title>
     <link>https://davenport-lab.github.io/</link>
     <description>Recent content on Davenport Lab</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 31 Oct 2018 22:26:09 -0500</lastBuildDate>
-    
-	<atom:link href="https://davenport-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://davenport-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Genetic determinants of the microbiome</title>
       <link>https://davenport-lab.github.io/research/genetics/</link>
       <pubDate>Wed, 31 Oct 2018 22:26:09 -0500</pubDate>
-      
       <guid>https://davenport-lab.github.io/research/genetics/</guid>
-      <description>Our lab is particularly interested in elucidating the role of host genetics in determining gut microbiome composition. Is the microbiome heritable? What host genetic variants are determine microbial abundance in the gut? How can we use host genetic variation to understand causal relationships between the microbiome and disease?
-Microbiome GWAS in the Hutterites photo: Kelly Hofer
-Host genetics + microbiota interactions in the TwinsUK Reviews and commentaries 
-Microbiome GWAS in the Hutterites While many environmental factors are known to contribute to gut microbiome composition, the extent to which host genetic variation plays a role is unclear.</description>
+      <description>&lt;p&gt;Our lab is particularly interested in elucidating the role of host genetics in determining gut microbiome composition.&#xA;Is the microbiome heritable?&#xA;What host genetic variants are determine microbial abundance in the gut?&#xA;How can we use host genetic variation to understand causal relationships between the microbiome and disease?&lt;/p&gt;&#xA;&lt;img style=&#34;margin: 10px; float: left&#34; src=&#34;https://davenport-lab.github.io/img/research/hutterites.png&#34; width=&#34;120&#34;&gt;  &#xA;&lt;h3 id=&#34;microbiome-gwas-in-the-hutterites&#34;&gt;&lt;a href=&#34;#hutterites&#34;&gt;Microbiome GWAS in the Hutterites&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;photo: &lt;a href=&#34;http://www.hutterites.org/galleries/work-and-agriculture/&#34;&gt;Kelly Hofer&lt;/a&gt;&#xA;&lt;br clear=&#34;all&#34;&gt;&lt;/p&gt;&#xA;&lt;img style=&#34;margin: 10px; float: left&#34; src=&#34;https://davenport-lab.github.io/img/research/cellHM_fig.png&#34; width=&#34;120&#34;&gt;  &#xA;&lt;h3 id=&#34;host-genetics--microbiota-interactions-in-the-twinsuk&#34;&gt;&lt;a href=&#34;#twinsUK&#34;&gt;Host genetics + microbiota interactions in the TwinsUK&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;br clear=&#34;all&#34;&gt;&#xA;&lt;img style=&#34;margin: 10px; float: left&#34; src=&#34;https://davenport-lab.github.io/img/research/toothBeTold_fig.png&#34; width=&#34;120&#34;&gt;  &#xA;&lt;h3 id=&#34;reviews-and-commentaries&#34;&gt;&lt;a href=&#34;#andMore&#34;&gt;Reviews and commentaries&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;br clear=&#34;all&#34;&gt;&#xA;&lt;br clear=&#34;all&#34;&gt;&#xA;&lt;h2 id=&#34;hutterites&#34;&gt;&amp;laquo;Microbiome GWAS in the Hutterites&amp;raquo;&lt;/h2&gt;&#xA;&lt;img style=&#34;margin: 10px; float: left&#34; src=&#34;https://davenport-lab.github.io/img/research/PVE.png&#34; width=&#34;300&#34;&gt;&#xA;&lt;p&gt;While many environmental factors are known to contribute to gut microbiome composition, the extent to which host genetic variation plays a role is unclear.&#xA;Using the same population as the &lt;a href=&#34;https://davenport-lab.github.io/research/environment&#34;&gt;seasonal study&lt;/a&gt; (the Hutterites), where inter-individual variation in diet is limited, I examined the role of sex and age as well as host genetics in determining the relative abundances of the most common bacteria in the gut.&#xA;To do so, I implemented &lt;a href=&#34;http://www.xzlab.org/software.html&#34;&gt;methods&lt;/a&gt; that specifically account for the relatedness across individuals and examined genetic variation genome-wide.&#xA;While this is an important first step at examining host genetics, I really can&amp;rsquo;t state enough the limitations of the sample size in this study and the number of tests performed.&#xA;That being said, I do find bacteria that show evidence of heritability in my samples and have genome-wide (but not study-wide) significant associations with SNPs in the genome.&#xA;&lt;br clear=&#34;all&#34;&gt;&lt;br&gt;&#xA;To read more, check out:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Openings</title>
       <link>https://davenport-lab.github.io/pages/openings/</link>
       <pubDate>Wed, 31 Oct 2018 22:26:09 -0500</pubDate>
-      
       <guid>https://davenport-lab.github.io/pages/openings/</guid>
-      <description>Undergraduate Researchers Undergraduates interested in gaining research experience examining questions related to host-microbe interactions should reach out to Emily to see whether there are opennings in the lab. Projects in the lab involve bench lab work (wet), computational research (dry), or a combination of both. Prospective researchers should be willing to make a time commitment of at least 8 hours per week to their research during fall and spring semesters.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://davenport-lab.github.io/img/pages/openings/flasks.jpg&#34; alt=&#34;flasks&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;undergraduate-researchers&#34;&gt;Undergraduate Researchers&lt;/h2&gt;&#xA;&lt;p&gt;Undergraduates interested in gaining research experience examining questions related to host-microbe interactions should reach out to Emily to see whether there are opennings in the lab.&#xA;Projects in the lab involve bench lab work (wet), computational research (dry), or a combination of both.&#xA;Prospective researchers should be willing to make a time commitment of at least 8 hours per week to their research during fall and spring semesters.&#xA;If interested, please send an &lt;a href=&#34;mailto:emily.davenport@psu.edu&#34;&gt;email&lt;/a&gt; to set up a time to talk.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Contact</title>
       <link>https://davenport-lab.github.io/pages/contact/</link>
       <pubDate>Wed, 31 Oct 2018 21:28:43 -0500</pubDate>
-      
       <guid>https://davenport-lab.github.io/pages/contact/</guid>
-      <description>Laboratory:
-Pennsylvania State University
-Department of Biology
-Wartik Laboratory - Room 302
-University Park, PA 16802</description>
+      <description>&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3020.285810314628!2d-77.86474014990227!3d40.79971277922093!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89cea62080da5513%3A0x646243af38221be1!2sWartik+Laboratory%2C+State+College%2C+PA+16801%2C+USA!5e0!3m2!1sen!2sde!4v1557843835755!5m2!1sen!2sde&#34; width=&#34;600&#34; height=&#34;450&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;p&gt;&lt;strong&gt;Laboratory:&lt;/strong&gt;&lt;br&gt;&#xA;Pennsylvania State University&lt;br&gt;&#xA;Department of Biology&lt;br&gt;&#xA;Wartik Laboratory - Room 302&lt;br&gt;&#xA;University Park, PA 16802&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Global and evolutionary human microbiomics</title>
       <link>https://davenport-lab.github.io/research/global_microbiomes/</link>
       <pubDate>Wed, 31 Oct 2018 21:28:43 -0500</pubDate>
-      
       <guid>https://davenport-lab.github.io/research/global_microbiomes/</guid>
-      <description>Microbiomes of Nepali populations practicing different subsistence strategies How does the transition to agriculture affect the microbiome? In collaboration with Dr. Aashish Jha, we examining the microbiomes of a fascinating set of populations from Nepal that in the past practiced semi-nomadic hunting and gathering. Some of these populations maintain that lifestyle (the Chepang), some took agricultural practices hundreds of years ago (the Tharu), and some have more recently transitioned (the Raute and Raji).</description>
+      <description>&lt;h2 id=&#34;microbiomes-of-nepali-populations-practicing-different-subsistence-strategies&#34;&gt;&lt;span class=&#34;align_left&#34;&gt;&lt;i class=&#34;fa fa-angle-double-left fa-1x&#34;&gt;&lt;/i&gt;&lt;b&gt;Microbiomes of Nepali populations practicing different subsistence strategies&lt;/b&gt;&lt;i class=&#34;fa fa-angle-double-right fa-1x&#34;&gt;&lt;/i&gt;&lt;/span&gt;&lt;/h2&gt;&#xA;&lt;img style=&#34;margin: 10px; float: left&#34; src=&#34;https://davenport-lab.github.io/img/research/nepal_fig.png&#34; width=&#34;300&#34; height=&#34;300&#34;&gt;  &#xA;How does the transition to agriculture affect the microbiome? In collaboration with [Dr. Aashish Jha](https://profiles.stanford.edu/aashish-jha), we examining the microbiomes of a fascinating set of populations from Nepal that in the past practiced semi-nomadic hunting and gathering. &#xA;Some of these populations maintain that lifestyle (the Chepang), some took agricultural practices hundreds of years ago (the Tharu), and some have more recently transitioned (the Raute and Raji). &#xA;Our goal is to identify whether these pre-industrial changes in subsistence strategies potentially influenced either the gut or oral microbiomes. &#xA;While analysis of the oral microbiomes is on-going, gut microbiomes clearly differentiate between the subsistence groups. &#xA;Incorporation of survey data reveal several lifestyle and dietary factors that may contribute, including drinking water source. &#xA;&lt;br clear=&#34;all&#34;&gt;&#xA;&lt;p&gt;Check out Dr. Aashish Jha&amp;rsquo;s website describing the project:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Macrobes</title>
       <link>https://davenport-lab.github.io/pages/people/</link>
       <pubDate>Thu, 31 May 2018 22:26:13 -0500</pubDate>
-      
       <guid>https://davenport-lab.github.io/pages/people/</guid>
-      <description>We are! The Macrobe + microbe interaction lab in the Department of Biology at the Pennsylvania State University. We use a combination of wet lab and computational approaches to understand what determines microbiome composition within a host, and how the relationship between the host and the microbiome affects host health and evolution.
-Emily Davenport
-Assistant Professor
-Department of Biology
-Huck Institutes of the Life Sciences and Institute for Computational and Data Sciences</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://davenport-lab.github.io/img/pages/people/lab_bowling_2025_cropped.jpg&#34; alt=&#34;lab_2025&#34;&gt;&lt;/p&gt;&#xA;&lt;img style=&#34;margin: 10px; float: left&#34; src=&#34;https://davenport-lab.github.io/img/nittany_lion.jpg&#34; width=&#34;200&#34;&gt;&#xA;&lt;h3 id=&#34;we-are&#34;&gt;We are!&lt;/h3&gt;&#xA;&lt;p&gt;The Macrobe + microbe interaction lab in the &lt;a href=&#34;https://bio.psu.edu/&#34;&gt;Department of Biology&lt;/a&gt; at the &lt;a href=&#34;https://www.psu.edu/&#34;&gt;Pennsylvania State University&lt;/a&gt;.&#xA;We use a combination of wet lab and computational approaches to understand what determines microbiome composition within a host, and how the relationship between the host and the microbiome affects host health and evolution.&lt;/p&gt;&#xA;&lt;br clear=&#34;all&#34;&gt;&#xA;&lt;img style=&#34;margin: 10px; float: left&#34; src=&#34;https://davenport-lab.github.io/img/pages/people/myface.png&#34; width=&#34;200&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Emily Davenport&lt;/strong&gt;&lt;br&gt;&#xA;Assistant Professor&lt;br&gt;&#xA;Department of Biology&lt;br&gt;&#xA;&lt;a href=&#34;https://www.huck.psu.edu/&#34;&gt;Huck Institutes of the Life Sciences&lt;/a&gt; and &lt;a href=&#34;https://ics.psu.edu/&#34;&gt;Institute for Computational and Data Sciences&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;mailto:emily.davenport@psu.edu&#34;&gt;&lt;i class=&#34;fa fa-envelope-o&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://twitter.com/emo_davenport&#34;&gt;&lt;i class=&#34;fa fa-twitter&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://github.com/erdavenport&#34;&gt;&lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://davenport-lab.github.io/img/pages/people/cv.pdf&#34;&gt;&lt;i class=&#34;ai ai-cv&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://scholar.google.com/citations?user=bG50EJYAAAAJ&amp;amp;hl=en&#34;&gt;&lt;i class=&#34;ai ai-google-scholar&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://bsky.app/profile/erdavenport.bsky.social&#34;&gt;&lt;i class=&#34;fa-brands fa-bluesky&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://orcid.org/0000-0002-6938-4933&#34;&gt;&lt;i class=&#34;ai ai-orcid&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&#xA;&lt;i class=&#34;fa fa-map-marker&#34;&gt;&lt;/i&gt; Office: 305 Wartik Laboratory, Penn State University&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Microbiome method development</title>
       <link>https://davenport-lab.github.io/research/method_developent/</link>
       <pubDate>Thu, 31 May 2018 22:26:13 -0500</pubDate>
-      
       <guid>https://davenport-lab.github.io/research/method_developent/</guid>
-      <description>Microbiome research is a relatively new and rapidly expanding field. New wet lab and statistical approaches are needed to answer fundamental questions about host + microbe interactions. Here&amp;rsquo;s how we are contributing.
-Co-occurrence network modeling reveals disease-specific configurations of microbiome community structure Simultaneously modeling host genetics and microbiome composition reveals the heritability and the proportion of variance explained due to the microbiome of immune-related traits 
-
-Co-occurrence network modeling reveals disease-specific configurations of microbiome community structure The human gut microbiome is associated with a large number of complex traits and diseases.</description>
+      <description>&lt;p&gt;Microbiome research is a relatively new and rapidly expanding field.&#xA;New wet lab and statistical approaches are needed to answer fundamental questions about host + microbe interactions.&#xA;Here&amp;rsquo;s how we are contributing.&lt;/p&gt;&#xA;&lt;img style=&#34;margin: 10px; float: left&#34; src=&#34;https://davenport-lab.github.io/img/research/network.png&#34; width=&#34;100&#34; height=&#34;100&#34;&gt;  &#xA;&lt;h3 id=&#34;co-occurrence-network-modeling-reveals-disease-specific-configurations-of-microbiome-community-structure&#34;&gt;&lt;a href=&#34;#networks&#34;&gt;Co-occurrence network modeling reveals disease-specific configurations of microbiome community structure&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;br clear=&#34;all&#34;&gt;&#xA;&lt;img style=&#34;margin: 10px; float: left&#34; src=&#34;https://davenport-lab.github.io/img/research/qqplot_BMI_genetics_and_genetics_microbiome.png&#34; width=&#34;100&#34;&gt;  &#xA;&lt;h3 id=&#34;simultaneously-modeling-host-genetics-and-microbiome-composition-reveals-the-heritability-and-the-proportion-of-variance-explained-due-to-the-microbiome-of-immune-related-traits&#34;&gt;&lt;a href=&#34;#microbiability&#34;&gt;Simultaneously modeling host genetics and microbiome composition reveals the heritability and the proportion of variance explained due to the microbiome of immune-related traits&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;p&gt;&lt;a name = &#34;networks&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Environmental influences on the microbiome</title>
       <link>https://davenport-lab.github.io/research/environment/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
-      
       <guid>https://davenport-lab.github.io/research/environment/</guid>
-      <description>Seasonal variation in gut microbiome composition Many studies have shown the important role diet plays in determining gut microbiome composition, however, many of us eat fairly consistant diets seasonally because we have access to fresh produce grown all over the globe. To examine whether seasonal differences in diet might affect the microbiome, I examined the fecal bacterial content in an isolated, communally-living population: the Hutterites. Women in Hutterite colonies (a small town of a few hundred Hutterites) cook 3 huge, communal meals a day and the entire colony eats buffet style from that meal (see some photos).</description>
+      <description>&lt;h2 id=&#34;seasonal-variation-in-gut-microbiome-composition&#34;&gt;&lt;span class=&#34;align_left&#34;&gt;&lt;i class=&#34;fa fa-angle-double-left fa-1x&#34;&gt;&lt;/i&gt;&lt;b&gt;Seasonal variation in gut microbiome composition&lt;/b&gt;&lt;i class=&#34;fa fa-angle-double-right fa-1x&#34;&gt;&lt;/i&gt;&lt;/span&gt;&lt;/h2&gt;&#xA;&lt;img style=&#34;margin: 10px; float: left&#34; src=&#34;https://davenport-lab.github.io/img/research/PC1_directional_plot.png&#34; width=&#34;300&#34; &gt;  &#xA;&lt;p&gt;Many studies have shown the important role diet plays in determining gut microbiome composition, however, many of us eat fairly consistant diets seasonally because we have access to fresh produce grown all over the globe.&#xA;To examine whether seasonal differences in diet might affect the microbiome, I examined the fecal bacterial content in an isolated, communally-living population: the &lt;a href=&#34;http://www.hutterites.org/&#34;&gt;Hutterites&lt;/a&gt;.&#xA;Women in Hutterite colonies (a small town of a few hundred Hutterites) cook 3 huge, communal meals a day and the entire colony eats buffet style from that meal (&lt;a href=&#34;http://www.hutterites.org/galleries/food-and-cooking/&#34;&gt;see some photos&lt;/a&gt;).&#xA;Because of this, inter-individual dietary variation in the Hutterites is much less than typical Americans at any given time.&#xA;However, most of their produce is grown on the colony during the summer months and then canned, frozen, or pickled for the winter and spring.&#xA;This means that they each many more serving of fresh produce during the summer than the winter.&#xA;To examine whether or not these seasonal dietary differences affect the microbiome, we examined fecal microbiome sequencing using high-throughput 16S rRNA gene sequencing.&#xA;We observe wide-spread, consistent shifts in the microbiome, many of which are likely driven by diet (as well as many other factors that change between season such as activity levels, vitamin D exposure, pathogen levels, immune activity, etc).&#xA;&lt;br clear=&#34;all&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Publications</title>
       <link>https://davenport-lab.github.io/pages/publications/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
-      
       <guid>https://davenport-lab.github.io/pages/publications/</guid>
-      <description>See my google scholar profile for an up-to-date list.
-* denotes equal contribution
-underlined denotes Davenport lab member
-Preprints  Litichevskiy L, Considine M, Gill J, Shandar V, Cox TO, Descamps HC, Wright KM, Amses KR, Dohnalova L, Liou MJ, Tetlak M, Galindo-Fiallos MR, Wong AC, Lundgren P, Kim J, Uhr GT, Rahman RJ, Mason S, Merenstein C, Bushman FD, Raj A, Harding F, Chen Z, Prateek GV, Mullis M, Deighan AG, Robinson L, Tanes C, Bittinger K, Chakraborty M, Bhatt AS, Li H, Barnett I, Davenport ER, Broman KW, Cohen RL, Botstein D, Freund A, Di Francesco A, Churchill GA, Li M, and Thaiss CA.</description>
+      <description>&lt;p&gt;See my &lt;a href=&#34;https://scholar.google.com/citations?user=bG50EJYAAAAJ&amp;amp;hl=en&#34;&gt;google scholar&lt;/a&gt; profile for an up-to-date list.&lt;br&gt;&#xA;* denotes equal contribution&lt;br&gt;&#xA;&lt;u&gt;underlined&lt;/u&gt; denotes Davenport lab member&lt;/p&gt;&#xA;&lt;h3 id=&#34;2025&#34;&gt;2025&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Van Syoc EP, Gomez A, &lt;u&gt;Davenport ER&lt;/u&gt;, and Bordenstein SR. &lt;a href=&#34;https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003390&#34;&gt;&lt;strong&gt;Gut fungal profiles reveal phylosymbiosis and codiversification across humans and nonhuman primates&lt;/strong&gt;&lt;/a&gt;. PLoS Biology 23(9):e3003390&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Van Syoc EP, &lt;u&gt;Davenport ER&lt;/u&gt;, and Bordenstein SR. &lt;a href=&#34;https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003339&#34;&gt;&lt;strong&gt;Gut fungi are associated with human genetic variation and disease risk&lt;/strong&gt;&lt;/a&gt;. PLoS Biology 23(9):e3003339&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Cappas V, Roy R, &lt;u&gt;Davenport ER&lt;/u&gt;, and Sykes D. &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1355030625000863&#34;&gt;&lt;strong&gt;The microbiome and volatile organic compounds reflect the state of decomposition in an indoor environment&lt;/strong&gt;&lt;/a&gt;. Science &amp;amp; Justice. 2025;65(5):101302&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,62 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Davenport Lab</title>
     <link>https://davenport-lab.github.io/pages/</link>
     <description>Recent content on Davenport Lab</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate>
-    
-	<atom:link href="https://davenport-lab.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 31 Oct 2018 22:26:09 -0500</lastBuildDate>
+    <atom:link href="https://davenport-lab.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Openings</title>
       <link>https://davenport-lab.github.io/pages/openings/</link>
       <pubDate>Wed, 31 Oct 2018 22:26:09 -0500</pubDate>
-      
       <guid>https://davenport-lab.github.io/pages/openings/</guid>
-      <description>Undergraduate Researchers Undergraduates interested in gaining research experience examining questions related to host-microbe interactions should reach out to Emily to see whether there are opennings in the lab. Projects in the lab involve bench lab work (wet), computational research (dry), or a combination of both. Prospective researchers should be willing to make a time commitment of at least 8 hours per week to their research during fall and spring semesters.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://davenport-lab.github.io/img/pages/openings/flasks.jpg&#34; alt=&#34;flasks&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;undergraduate-researchers&#34;&gt;Undergraduate Researchers&lt;/h2&gt;&#xA;&lt;p&gt;Undergraduates interested in gaining research experience examining questions related to host-microbe interactions should reach out to Emily to see whether there are opennings in the lab.&#xA;Projects in the lab involve bench lab work (wet), computational research (dry), or a combination of both.&#xA;Prospective researchers should be willing to make a time commitment of at least 8 hours per week to their research during fall and spring semesters.&#xA;If interested, please send an &lt;a href=&#34;mailto:emily.davenport@psu.edu&#34;&gt;email&lt;/a&gt; to set up a time to talk.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Contact</title>
       <link>https://davenport-lab.github.io/pages/contact/</link>
       <pubDate>Wed, 31 Oct 2018 21:28:43 -0500</pubDate>
-      
       <guid>https://davenport-lab.github.io/pages/contact/</guid>
-      <description>Laboratory:
-Pennsylvania State University
-Department of Biology
-Wartik Laboratory - Room 302
-University Park, PA 16802</description>
+      <description>&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3020.285810314628!2d-77.86474014990227!3d40.79971277922093!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89cea62080da5513%3A0x646243af38221be1!2sWartik+Laboratory%2C+State+College%2C+PA+16801%2C+USA!5e0!3m2!1sen!2sde!4v1557843835755!5m2!1sen!2sde&#34; width=&#34;600&#34; height=&#34;450&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;p&gt;&lt;strong&gt;Laboratory:&lt;/strong&gt;&lt;br&gt;&#xA;Pennsylvania State University&lt;br&gt;&#xA;Department of Biology&lt;br&gt;&#xA;Wartik Laboratory - Room 302&lt;br&gt;&#xA;University Park, PA 16802&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Macrobes</title>
       <link>https://davenport-lab.github.io/pages/people/</link>
       <pubDate>Thu, 31 May 2018 22:26:13 -0500</pubDate>
-      
       <guid>https://davenport-lab.github.io/pages/people/</guid>
-      <description>We are! The Macrobe + microbe interaction lab in the Department of Biology at the Pennsylvania State University. We use a combination of wet lab and computational approaches to understand what determines microbiome composition within a host, and how the relationship between the host and the microbiome affects host health and evolution.
-Emily Davenport
-Assistant Professor
-Department of Biology
-Huck Institutes of the Life Sciences and Institute for Computational and Data Sciences</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://davenport-lab.github.io/img/pages/people/lab_bowling_2025_cropped.jpg&#34; alt=&#34;lab_2025&#34;&gt;&lt;/p&gt;&#xA;&lt;img style=&#34;margin: 10px; float: left&#34; src=&#34;https://davenport-lab.github.io/img/nittany_lion.jpg&#34; width=&#34;200&#34;&gt;&#xA;&lt;h3 id=&#34;we-are&#34;&gt;We are!&lt;/h3&gt;&#xA;&lt;p&gt;The Macrobe + microbe interaction lab in the &lt;a href=&#34;https://bio.psu.edu/&#34;&gt;Department of Biology&lt;/a&gt; at the &lt;a href=&#34;https://www.psu.edu/&#34;&gt;Pennsylvania State University&lt;/a&gt;.&#xA;We use a combination of wet lab and computational approaches to understand what determines microbiome composition within a host, and how the relationship between the host and the microbiome affects host health and evolution.&lt;/p&gt;&#xA;&lt;br clear=&#34;all&#34;&gt;&#xA;&lt;img style=&#34;margin: 10px; float: left&#34; src=&#34;https://davenport-lab.github.io/img/pages/people/myface.png&#34; width=&#34;200&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Emily Davenport&lt;/strong&gt;&lt;br&gt;&#xA;Assistant Professor&lt;br&gt;&#xA;Department of Biology&lt;br&gt;&#xA;&lt;a href=&#34;https://www.huck.psu.edu/&#34;&gt;Huck Institutes of the Life Sciences&lt;/a&gt; and &lt;a href=&#34;https://ics.psu.edu/&#34;&gt;Institute for Computational and Data Sciences&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;mailto:emily.davenport@psu.edu&#34;&gt;&lt;i class=&#34;fa fa-envelope-o&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://twitter.com/emo_davenport&#34;&gt;&lt;i class=&#34;fa fa-twitter&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://github.com/erdavenport&#34;&gt;&lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://davenport-lab.github.io/img/pages/people/cv.pdf&#34;&gt;&lt;i class=&#34;ai ai-cv&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://scholar.google.com/citations?user=bG50EJYAAAAJ&amp;amp;hl=en&#34;&gt;&lt;i class=&#34;ai ai-google-scholar&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://bsky.app/profile/erdavenport.bsky.social&#34;&gt;&lt;i class=&#34;fa-brands fa-bluesky&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://orcid.org/0000-0002-6938-4933&#34;&gt;&lt;i class=&#34;ai ai-orcid&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&#xA;&lt;i class=&#34;fa fa-map-marker&#34;&gt;&lt;/i&gt; Office: 305 Wartik Laboratory, Penn State University&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Publications</title>
       <link>https://davenport-lab.github.io/pages/publications/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
-      
       <guid>https://davenport-lab.github.io/pages/publications/</guid>
-      <description>See my google scholar profile for an up-to-date list.
-* denotes equal contribution
-underlined denotes Davenport lab member
-Preprints  Litichevskiy L, Considine M, Gill J, Shandar V, Cox TO, Descamps HC, Wright KM, Amses KR, Dohnalova L, Liou MJ, Tetlak M, Galindo-Fiallos MR, Wong AC, Lundgren P, Kim J, Uhr GT, Rahman RJ, Mason S, Merenstein C, Bushman FD, Raj A, Harding F, Chen Z, Prateek GV, Mullis M, Deighan AG, Robinson L, Tanes C, Bittinger K, Chakraborty M, Bhatt AS, Li H, Barnett I, Davenport ER, Broman KW, Cohen RL, Botstein D, Freund A, Di Francesco A, Churchill GA, Li M, and Thaiss CA.</description>
+      <description>&lt;p&gt;See my &lt;a href=&#34;https://scholar.google.com/citations?user=bG50EJYAAAAJ&amp;amp;hl=en&#34;&gt;google scholar&lt;/a&gt; profile for an up-to-date list.&lt;br&gt;&#xA;* denotes equal contribution&lt;br&gt;&#xA;&lt;u&gt;underlined&lt;/u&gt; denotes Davenport lab member&lt;/p&gt;&#xA;&lt;h3 id=&#34;2025&#34;&gt;2025&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Van Syoc EP, Gomez A, &lt;u&gt;Davenport ER&lt;/u&gt;, and Bordenstein SR. &lt;a href=&#34;https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003390&#34;&gt;&lt;strong&gt;Gut fungal profiles reveal phylosymbiosis and codiversification across humans and nonhuman primates&lt;/strong&gt;&lt;/a&gt;. PLoS Biology 23(9):e3003390&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Van Syoc EP, &lt;u&gt;Davenport ER&lt;/u&gt;, and Bordenstein SR. &lt;a href=&#34;https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003339&#34;&gt;&lt;strong&gt;Gut fungi are associated with human genetic variation and disease risk&lt;/strong&gt;&lt;/a&gt;. PLoS Biology 23(9):e3003339&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Cappas V, Roy R, &lt;u&gt;Davenport ER&lt;/u&gt;, and Sykes D. &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1355030625000863&#34;&gt;&lt;strong&gt;The microbiome and volatile organic compounds reflect the state of decomposition in an indoor environment&lt;/strong&gt;&lt;/a&gt;. Science &amp;amp; Justice. 2025;65(5):101302&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
